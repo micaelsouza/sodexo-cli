@@ -1,0 +1,24 @@
+{
+  "name": "sodexo-cli",
+  "version": "0.0.0",
+  "description": "Cliente para consultar saldo dos cartões sodexo no terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodexounofficial/sodexo-cli.git"
+  },
+  "keywords": [
+    "sodexo",
+    "saldo",
+    "sodexo-cli"
+  ],
+  "author": "micaelsouza <micael.souza@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sodexounofficial/sodexo-cli/issues"
+  },
+  "homepage": "https://github.com/sodexounofficial/sodexo-cli#readme"
+}
